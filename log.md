@@ -10,10 +10,8 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 
-### Day 1: July 17, 2018 (Tuesday)
+### R1 D1: July 17, 2018 (Tuesday)
 
-**Today's Progress**: 
+**Today's Progress**: Just started the 100 days of code challenge and started on the "Introduction to Basic HTML and HTML5" challenges. Challenges cleared: "Say Hello to HTML Elements" up to "Add Placeholder Text to a Text Field".
 
-**Thoughts** 
-
-**Link(s) to work**
+**Thoughts** A good start on Day 1 of the challenge. Try completing more challenges for the next day.
