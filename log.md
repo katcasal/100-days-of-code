@@ -15,3 +15,10 @@
 **Today's Progress**: Just started the 100 days of code challenge and started on the "Introduction to Basic HTML and HTML5" challenges. Challenges cleared: "Say Hello to HTML Elements" up to "Add Placeholder Text to a Text Field".
 
 **Thoughts** A good start on Day 1 of the challenge. Try completing more challenges for the next day.
+
+
+### R1 D2: July 18, 2018 (Wednesday)
+
+**Today's Progress**: Completed the Basic HTML and HTML 5 challenges.
+
+**Thoughts** Read more on other HTML tags, sources: https://www.w3schools.com/tags/ref_canvas.asp , http://www.htmldog.com/references/html/tags/ , https://developer.mozilla.org/en-US/docs/Web/HTML/Element
