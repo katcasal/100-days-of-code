@@ -21,4 +21,4 @@
 
 **Today's Progress**: Completed the Basic HTML and HTML 5 challenges.
 
-**Thoughts** Read more on other HTML tags, sources: https://www.w3schools.com/tags/ref_canvas.asp , http://www.htmldog.com/references/html/tags/ , https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+**Thoughts** Read more on other HTML tags, sources: <a href="https://www.w3schools.com/tags/ref_canvas.asp" target="_blank">w3schools</a>, <a href="http://www.htmldog.com/references/html/tags/" target="_blank">htmldog</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">mozilla</a>
