@@ -22,3 +22,9 @@
 **Today's Progress**: Completed the Basic HTML and HTML 5 challenges.
 
 **Thoughts** Read more on other HTML tags, sources: <a href="https://www.w3schools.com/tags/ref_canvas.asp" target="_blank">w3schools</a>, <a href="http://www.htmldog.com/references/html/tags/" target="_blank">htmldog</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">mozilla</a>
+
+### R1 D3: July 30, 2018 (Monday)
+
+**Today's Progress**: Completed the Introduction to Basic CSS challenges.
+
+**Thoughts** Be more consistent in taking time to code everyday! Read more on CSS selectors and nesting style elements in CSS.
